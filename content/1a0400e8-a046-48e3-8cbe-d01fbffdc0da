@@ -1,5 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
   <head>undefined</head>
-  <body>undefined</body>
+  <body><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem" data-class="question" id="2678fc3d-934e-035b-1ccd-5a8d80048452">
+            
+<p>A cricket ball of mass <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>160</mtext>
+<annotation encoding="math/tex">\text{160}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>g</mtext>
+<annotation encoding="math/tex">\text{g}</annotation></semantics></math> is bowled at <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>40</mtext>
+<annotation encoding="math/tex">\text{40}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>m·s^{-1}</mtext>
+<annotation encoding="math/tex">\text{m·s^{-1}}</annotation></semantics></math> towards a batsman. Calculate the momentum of the cricket ball.</p>
+
+           <figure class="figure" title=""><div class="title"></div><img width="468" alt="http://www.flickr.com/photos/gareth1953/5858562848/sizes/o/" draggable="false" src="../resources/Bowler-by-gareth1953-on-Flickr-5858562848_02ab046a55_o.jpg"/><figcaption></figcaption></figure></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+<div class="title">Identify what information is given and what is asked for</div><p>The question explicitly gives</p><ul data-class="ListBulleted"><li>
+                  
+<p>the mass of the ball (m = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>160</mtext>
+<annotation encoding="math/tex">\text{160}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>g</mtext>
+<annotation encoding="math/tex">\text{g}</annotation></semantics></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>0,16</mtext>
+<annotation encoding="math/tex">\text{0,16}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>kg</mtext>
+<annotation encoding="math/tex">\text{kg}</annotation></semantics></math>), and</p>
+
+                </li>
+<li>
+		  
+<p>the velocity of the ball <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mo stretchy="false">(</mo>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mover>
+      <mi>v</mi>
+      <mo>⃗<!-- ⃗ --></mo>
+    </mover>
+  </mrow>
+</mrow><annotation encoding="math/tex">(\vec{v}</annotation></semantics></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>40</mtext>
+<annotation encoding="math/tex">\text{40}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>m·s^{-1}</mtext>
+<annotation encoding="math/tex">\text{m·s^{-1}}</annotation></semantics></math> towards the batsman)</p>
+
+                </li>
+</ul><p>To calculate the momentum we will use</p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mover>
+      <mi>p</mi>
+      <mo>⃗<!-- ⃗ --></mo>
+    </mover>
+  </mrow>
+  <mo>=</mo>
+  <mi>m</mi>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mover>
+      <mi>v</mi>
+      <mo>⃗<!-- ⃗ --></mo>
+    </mover>
+  </mrow>
+  <mo>.</mo>
+</mrow><annotation encoding="math/tex">\vec{p}=m\vec{v}.</annotation></semantics></math></div><div class="solution" data-class="workstep" data-type="Step">
+<div class="title">Do the calculation</div><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em" displaystyle="true">
+    <mtr>
+      <mtd>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mover>
+            <mi>p</mi>
+            <mo>⃗<!-- ⃗ --></mo>
+          </mover>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mo>=</mo>
+        <mi>m</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mover>
+            <mi>v</mi>
+            <mo>⃗<!-- ⃗ --></mo>
+          </mover>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd>
+        <mo>=</mo>
+        <mfenced open="(" close=")">
+          <mtext>0,16</mtext>
+        </mfenced>
+        <mfenced open="(" close=")">
+          <mn>40</mn>
+        </mfenced>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd>
+        <mo>=</mo>
+        <mtext>6,4</mtext>
+        <mtext>&nbsp;kg·m·s^{-1}</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd>
+        <mo>=</mo>
+        <mtext>6,4</mtext>
+        <mtext>&nbsp;kg·m·s^{-1}</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>&nbsp;</mo>
+        </mrow>
+        <mtext>in the direction of the batsman</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+<annotation encoding="math/tex">\begin{align*}
+ \vec{p}&amp; = m\vec{v} \\ 
+ &amp; = \left(\text{0,16}\right)\left(40\right) \\ 
+ &amp; = \text{6,4}\text{ kg·m·s^{-1}} \\ 
+ &amp; = \text{6,4}\text{ kg·m·s^{-1}}&nbsp;\text{in the direction of the batsman} 
+\end{align*}</annotation></semantics></math></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<div class="title">Quote the final answer</div><p>The momentum of the cricket ball is <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>6,4</mtext>
+<annotation encoding="math/tex">\text{6,4}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>kg·m·s^{-1}</mtext>
+<annotation encoding="math/tex">\text{kg·m·s^{-1}}</annotation></semantics></math>&nbsp;in the direction of the batsman.</p></div></div>d</body>
 </html>
