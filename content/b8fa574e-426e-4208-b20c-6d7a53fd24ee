@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>Test files for specific things</dc:title>
   </metadata>
-  <manifest><item href="feffb386-2374-4c2c-a45f-8f429583162f" id="feffb386-2374-4c2c-a45f-8f429583162f" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <manifest><item href="feffb386-2374-4c2c-a45f-8f429583162f" id="feffb386-2374-4c2c-a45f-8f429583162f" media-type="application/xhtml+xml" properties="nav"/><item href="module2-d3cdb56e-8702-42f1-9123-8ebf346c135d.html" id="module2-d3cdb56e-8702-42f1-9123-8ebf346c135d.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
