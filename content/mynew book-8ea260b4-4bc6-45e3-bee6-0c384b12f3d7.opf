@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>My new book</dc:title>
   </metadata>
-  <manifest><item href="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" id="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="mathbreaks things test file-368cc171-e179-4757-9dd6-9ce49a8c3371.html" id="mathbreaks things test file-368cc171-e179-4757-9dd6-9ce49a8c3371.html" media-type="application/xhtml+xml"/><item href="anothertest file-081dd39a-4635-4dd5-bd41-7c18f05ee97d.html" id="anothertest file-081dd39a-4635-4dd5-bd41-7c18f05ee97d.html" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" id="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="mathbreaks things test file-368cc171-e179-4757-9dd6-9ce49a8c3371.html" id="mathbreaks things test file-368cc171-e179-4757-9dd6-9ce49a8c3371.html" media-type="application/xhtml+xml"/><item href="anothertest file-081dd39a-4635-4dd5-bd41-7c18f05ee97d.html" id="anothertest file-081dd39a-4635-4dd5-bd41-7c18f05ee97d.html" media-type="application/xhtml+xml"/><item href="anothertest file-2e2c4398-f69c-4290-96c2-79ce26d09034.html" id="anothertest file-2e2c4398-f69c-4290-96c2-79ce26d09034.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
