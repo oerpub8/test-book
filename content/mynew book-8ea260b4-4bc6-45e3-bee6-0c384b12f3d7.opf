@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>My new book</dc:title>
   </metadata>
-  <manifest><item href="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" id="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <manifest><item href="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" id="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="mathbreaks things test file-368cc171-e179-4757-9dd6-9ce49a8c3371.html" id="mathbreaks things test file-368cc171-e179-4757-9dd6-9ce49a8c3371.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
