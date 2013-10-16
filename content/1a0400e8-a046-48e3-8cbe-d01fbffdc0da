@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
   <head>undefined</head>
-  <body><p class="">Pivotal story:&nbsp;<a href="https://www.pivotaltracker.com/story/show/57600192" class="" title="">https://www.pivotaltracker.com/story/show/57600192</a></p><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem" data-class="question" id="2678fc3d-934e-035b-1ccd-5a8d80048452">
+  <body><p class="">Pivotal story:&nbsp;<a href="https://www.pivotaltracker.com/story/show/57600192" class="" title="">https://www.pivotaltracker.com/story/show/57600192</a></p><p class="">1. Hover inside the worked example, but not inside the image. The pencil shows up in the image anyway. It should not.</p><p class="">2. Hover over the image drag handle. It says (but should not), "Drag this exercise". And the whole exercise highlights.</p><p class="">3. Drag the image -- it does correclty drag just the image.</p><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem" data-class="question" id="2678fc3d-934e-035b-1ccd-5a8d80048452">
             
 <p>A cricket ball of mass <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>160</mtext>
@@ -17,9 +17,7 @@
 
 
 
-<div class="title">Identify what information is given and what is asked for</div><p>The question explicitly gives</p><ul data-class="ListBulleted"><li>
-                  
-<p>the mass of the ball (m = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<div class="title">Identify what information is given and what is asked for</div><p>The question explicitly gives</p><ul data-class="ListBulleted"><li><p>the mass of the ball (m = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>160</mtext>
 <annotation encoding="math/tex">\text{160}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>g</mtext>
@@ -27,12 +25,7 @@
   <mtext>0,16</mtext>
 <annotation encoding="math/tex">\text{0,16}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>kg</mtext>
-<annotation encoding="math/tex">\text{kg}</annotation></semantics></math>), and</p>
-
-                </li>
-<li>
-		  
-<p>the velocity of the ball <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<annotation encoding="math/tex">\text{kg}</annotation></semantics></math>), and</p></li><li><p>the velocity of the ball <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mo stretchy="false">(</mo>
   <mrow class="MJX-TeXAtom-ORD">
     <mover>
@@ -44,10 +37,7 @@
   <mtext>40</mtext>
 <annotation encoding="math/tex">\text{40}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>m·s^{-1}</mtext>
-<annotation encoding="math/tex">\text{m·s^{-1}}</annotation></semantics></math> towards the batsman)</p>
-
-                </li>
-</ul><p>To calculate the momentum we will use</p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<annotation encoding="math/tex">\text{m·s^{-1}}</annotation></semantics></math> towards the batsman)</p></li></ul><p>To calculate the momentum we will use</p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mrow class="MJX-TeXAtom-ORD">
     <mover>
       <mi>p</mi>
