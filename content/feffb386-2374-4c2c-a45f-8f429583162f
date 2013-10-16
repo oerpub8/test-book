@@ -9,9 +9,6 @@
     <nav>
 <ol>
 <li>
-<a href="onemore test file-c22e0338-7269-466b-9aa2-fd5da267f9c8.html">One more test file</a>
-</li>
-<li>
 <a href="anothertest file-335d775e-4ba8-477f-8a85-78fdf5c0242e.html">Another test file</a>
 </li>
 <li>
@@ -25,6 +22,9 @@
 </li>
 <li>
 <a href="1a0400e8-a046-48e3-8cbe-d01fbffdc0da">Nested Things Test</a>
+</li>
+<li>
+<a href="onemore test file-c22e0338-7269-466b-9aa2-fd5da267f9c8.html">One more test file</a>
 </li>
 </ol>
 </nav></body>
