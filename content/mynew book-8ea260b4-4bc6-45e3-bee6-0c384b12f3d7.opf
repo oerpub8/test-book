@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>My new book</dc:title>
+  </metadata>
+  <manifest><item href="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" id="mynew book-dd8aa3e2-700d-4d84-9304-a109592d7956-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <spine/>
+</package>
