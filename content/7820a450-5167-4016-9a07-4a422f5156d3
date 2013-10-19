@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>Results</dc:title>
   </metadata>
-  <manifest><item href="518b0c50-33bf-4fae-829d-b6791918f655" id="518b0c50-33bf-4fae-829d-b6791918f655" media-type="application/xhtml+xml" properties="nav"/><item href="9242454b-3428-4222-afa0-148da2759c99" id="9242454b-3428-4222-afa0-148da2759c99" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="518b0c50-33bf-4fae-829d-b6791918f655" id="518b0c50-33bf-4fae-829d-b6791918f655" media-type="application/xhtml+xml" properties="nav"/><item href="9242454b-3428-4222-afa0-148da2759c99" id="9242454b-3428-4222-afa0-148da2759c99" media-type="application/xhtml+xml"/><item href="test-bookatc-ff2e4c0e-5fa0-46f9-92ce-60392ae08bf3-nav.html" id="test-bookatc-ff2e4c0e-5fa0-46f9-92ce-60392ae08bf3-nav.html" media-type="application/xhtml+xml"/><item href="module1-cc18a1c4-3a79-4a3c-970b-3a3fbbb9ee5d.html" id="module1-cc18a1c4-3a79-4a3c-970b-3a3fbbb9ee5d.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>

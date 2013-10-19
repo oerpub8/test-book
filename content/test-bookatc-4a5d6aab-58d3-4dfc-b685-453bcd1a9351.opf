@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>Test book ATC</dc:title>
+  </metadata>
+  <manifest><item href="test-bookatc-ff2e4c0e-5fa0-46f9-92ce-60392ae08bf3-nav.html" id="test-bookatc-ff2e4c0e-5fa0-46f9-92ce-60392ae08bf3-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <spine/>
+</package>
