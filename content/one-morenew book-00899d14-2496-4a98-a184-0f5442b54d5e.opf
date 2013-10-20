@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>One more new book</dc:title>
   </metadata>
-  <manifest><item href="one-morenew book-eb78621f-37f7-4e84-9019-0c20ea4a4bed-nav.html" id="one-morenew book-eb78621f-37f7-4e84-9019-0c20ea4a4bed-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <manifest><item href="one-morenew book-eb78621f-37f7-4e84-9019-0c20ea4a4bed-nav.html" id="one-morenew book-eb78621f-37f7-4e84-9019-0c20ea4a4bed-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="e175ef1c-02a9-4d6b-8f32-ec672d0c2d44" id="e175ef1c-02a9-4d6b-8f32-ec672d0c2d44" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
