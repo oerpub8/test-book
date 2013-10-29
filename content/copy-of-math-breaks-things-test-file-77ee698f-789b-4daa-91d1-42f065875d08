@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>undefined</head>
+  <body><h1>Story to test - Empty math goes crazy</h1><p><a href="https://www.pivotaltracker.com/story/show/58921324" class="" title="">https://www.pivotaltracker.com/story/show/58921324</a></p><p>To reproduce: click somewhere in the text. Click the math tool in the toolbar. Don't add any text; just click "Done". Things that now break: You can't delete the empty math span that was left in. You can't edit/open it either. You can't edit/delete other pieces of math. You can't get link popovers to work anymore either.<br></p><p>Don't save after you add the empty math so we can keep using this file</p><h1 style="">Story to test - Copy and paste math</h1><h1 style=""><br style=""></h1><ol><li>Copy/paste math using the mathjax context menu<ul><li>Make sure that the copied math opens, can be edited, saved, and reopened.</li><li>Make sure the copied math has the mathjax context menu.</li></ul></li><li>Copy/paste math using the copy button in the dialog, check the same things as above.</li><li>Copy math by highlighting math in a sentence or para and using ctrl-c, check the same things as above.</li><li>Copy/paste a section with math in it, and check the same things.</li><li>Copy an element with math in it and check the same things.</li></ol><p></p><h1>Momentum</h1><p>Momentum is a physical quantity which is closely related to forces. Momentum is 
+        a property which applies to moving objects, in fact it is mass in motion. If something 
+        has mass and it is moving then it has momentum.</p><dl class="definition"><dt>Momentum</dt><dd>
+            
+<p>The linear momentum of a particle (object) is a vector quantity equal to the
+            product of the mass of the particle (object) and its velocity.</p><div class="equation"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <msup>
+    <mi>x</mi>
+    <mn>2</mn>
+  </msup>
+  <mo>+</mo>
+  <msup>
+    <mi>y</mi>
+    <mn>2</mn>
+  </msup>
+  <mo>=</mo>
+  <msup>
+    <mi>z</mi>
+    <mn>2</mn>
+  </msup>
+</mrow><annotation encoding="math/tex">x^2 + y^2 = z^2</annotation></semantics></math></div><p><br></p>
+
+          </dd></dl><p>The momentum (symbol <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mover>
+      <mi>p</mi>
+      <mo>⃗<!-- ⃗ --></mo>
+    </mover>
+  </mrow>
+<annotation encoding="math/tex">\vec{p}</annotation></semantics></math>) of an object of mass <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mi>m</mi>
+<annotation encoding="math/tex">m</annotation></semantics></math> 
+        moving at velocity <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mi>v</mi>
+<annotation encoding="math/tex">v</annotation></semantics></math> is:</p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mover>
+      <mi>p</mi>
+      <mo>⃗<!-- ⃗ --></mo>
+    </mover>
+  </mrow>
+  <mo>=</mo>
+  <mi>m</mi>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mover>
+      <mi>v</mi>
+      <mo>⃗<!-- ⃗ --></mo>
+    </mover>
+  </mrow>
+</mrow><annotation encoding="math/tex">\vec{p}=m\vec{v}</annotation></semantics></math><p>Momentum is directly proportional to both the mass and velocity of an object. A small car 
+        travelling at the same velocity as a big truck will have a smaller momentum than 
+        the truck. The smaller the mass, the smaller the momentum for a fixed velocity. If 
+        the mass is constant then the greater the velocity the greater the momentum. The momentum 
+        will always be in the same direction as the velocity because mass is a scalar not a 
+        vector.</p><p style=""><br></p></body>
+</html>
