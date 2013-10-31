@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>atc-fixes book</dc:title>
+  </metadata>
+  <manifest><item href="atc-fixes-book-1017e0e1-c77e-44f2-bc57-78f43593f82d-nav.html" id="atc-fixes-book-1017e0e1-c77e-44f2-bc57-78f43593f82d-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <spine/>
+</package>
