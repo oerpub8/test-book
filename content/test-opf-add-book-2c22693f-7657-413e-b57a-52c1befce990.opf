@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>Test opf add book</dc:title>
   </metadata>
-  <manifest><item href="test-opf-add-book-165d1f4b-d325-4ea4-9c76-a2b37a747e54-nav.html" id="test-opf-add-book-165d1f4b-d325-4ea4-9c76-a2b37a747e54-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-75bfeb12-655a-426f-9c9f-1b6172014829.html" id="module1-75bfeb12-655a-426f-9c9f-1b6172014829.html" media-type="application/xhtml+xml"/><item href="image-things-2e448247-2272-4153-ba09-33f3cb4527b0.html" id="image-things-2e448247-2272-4153-ba09-33f3cb4527b0.html" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="test-opf-add-book-165d1f4b-d325-4ea4-9c76-a2b37a747e54-nav.html" id="test-opf-add-book-165d1f4b-d325-4ea4-9c76-a2b37a747e54-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-75bfeb12-655a-426f-9c9f-1b6172014829.html" id="module1-75bfeb12-655a-426f-9c9f-1b6172014829.html" media-type="application/xhtml+xml"/><item href="image-things-2e448247-2272-4153-ba09-33f3cb4527b0.html" id="image-things-2e448247-2272-4153-ba09-33f3cb4527b0.html" media-type="application/xhtml+xml"/><item href="replaced-module-48db5f0f-2971-47dd-85b5-88da3048294f.html" id="replaced-module-48db5f0f-2971-47dd-85b5-88da3048294f.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
