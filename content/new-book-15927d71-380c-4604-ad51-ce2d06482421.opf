@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>New book</dc:title>
   </metadata>
-  <manifest><item href="new-book-43e012c5-64ce-463c-88e2-ea303a5b25f2-nav.html" id="new-book-43e012c5-64ce-463c-88e2-ea303a5b25f2-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-67462c41-f963-4b1f-8492-e03f6da9ae11.html" id="module1-67462c41-f963-4b1f-8492-e03f6da9ae11.html" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="new-book-43e012c5-64ce-463c-88e2-ea303a5b25f2-nav.html" id="new-book-43e012c5-64ce-463c-88e2-ea303a5b25f2-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-67462c41-f963-4b1f-8492-e03f6da9ae11.html" id="module1-67462c41-f963-4b1f-8492-e03f6da9ae11.html" media-type="application/xhtml+xml"/><item href="newer-book-028b9446-8345-4daa-bdb6-8d0b6d9e1477-nav.html" id="newer-book-028b9446-8345-4daa-bdb6-8d0b6d9e1477-nav.html" media-type="application/xhtml+xml"/><item href="module1-35da594b-a2b3-4d19-90cb-dca3dea2281d.html" id="module1-35da594b-a2b3-4d19-90cb-dca3dea2281d.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
