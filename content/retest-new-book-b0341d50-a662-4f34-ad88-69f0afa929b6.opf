@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>Retest New Book</dc:title>
+  </metadata>
+  <manifest><item href="retest-new-book-97f9ef83-d577-4199-a40e-92659d46b494-nav.html" id="retest-new-book-97f9ef83-d577-4199-a40e-92659d46b494-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-9e5b0c5c-17d3-442b-8b53-c37fadc09ede.html" id="module1-9e5b0c5c-17d3-442b-8b53-c37fadc09ede.html" media-type="application/xhtml+xml"/></manifest>
+  <spine/>
+</package>

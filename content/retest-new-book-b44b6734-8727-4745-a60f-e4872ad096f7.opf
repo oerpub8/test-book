@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>Retest New Book</dc:title>
   </metadata>
-  <manifest><item href="retest-new-book-01fcdfdb-5e10-43a0-9398-8ba5d096d21f-nav.html" id="retest-new-book-01fcdfdb-5e10-43a0-9398-8ba5d096d21f-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-085a4aba-f6e3-4e9e-9092-921e54ed33c0.html" id="module1-085a4aba-f6e3-4e9e-9092-921e54ed33c0.html" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="retest-new-book-01fcdfdb-5e10-43a0-9398-8ba5d096d21f-nav.html" id="retest-new-book-01fcdfdb-5e10-43a0-9398-8ba5d096d21f-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-085a4aba-f6e3-4e9e-9092-921e54ed33c0.html" id="module1-085a4aba-f6e3-4e9e-9092-921e54ed33c0.html" media-type="application/xhtml+xml"/><item href="retest-new-book-97f9ef83-d577-4199-a40e-92659d46b494-nav.html" id="retest-new-book-97f9ef83-d577-4199-a40e-92659d46b494-nav.html" media-type="application/xhtml+xml"/><item href="module1-9e5b0c5c-17d3-442b-8b53-c37fadc09ede.html" id="module1-9e5b0c5c-17d3-442b-8b53-c37fadc09ede.html" media-type="application/xhtml+xml"/></manifest>
   <spine/>
 </package>
