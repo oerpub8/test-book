@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>Another new book to delete</dc:title>
+  </metadata>
+  <manifest><item href="another-new-book-to-delete-fea17499-84ce-4d8f-9b91-81dbef4ef46a-nav.html" id="another-new-book-to-delete-fea17499-84ce-4d8f-9b91-81dbef4ef46a-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-f5519996-7fc1-47c3-989d-11fa5964dd47.html" id="module1-f5519996-7fc1-47c3-989d-11fa5964dd47.html" media-type="application/xhtml+xml"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-f5519996-7fc1-47c3-989d-11fa5964dd47.html"></itemref></spine>
+</package>

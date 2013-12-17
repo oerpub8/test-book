@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>New book to delete</dc:title>
   </metadata>
-  <manifest><item href="new-book-to-delete-4a4baca0-e243-4273-aec6-679ef4fa7db8-nav.html" id="new-book-to-delete-4a4baca0-e243-4273-aec6-679ef4fa7db8-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-49a644b4-4555-4622-adfb-9a2e571d1cb2.html" id="module1-49a644b4-4555-4622-adfb-9a2e571d1cb2.html" media-type="application/xhtml+xml"/></manifest>
+  <manifest><item href="new-book-to-delete-4a4baca0-e243-4273-aec6-679ef4fa7db8-nav.html" id="new-book-to-delete-4a4baca0-e243-4273-aec6-679ef4fa7db8-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-49a644b4-4555-4622-adfb-9a2e571d1cb2.html" id="module1-49a644b4-4555-4622-adfb-9a2e571d1cb2.html" media-type="application/xhtml+xml"/><item href="another-new-book-to-delete-fea17499-84ce-4d8f-9b91-81dbef4ef46a-nav.html" id="another-new-book-to-delete-fea17499-84ce-4d8f-9b91-81dbef4ef46a-nav.html" media-type="application/xhtml+xml"/><item href="module1-f5519996-7fc1-47c3-989d-11fa5964dd47.html" id="module1-f5519996-7fc1-47c3-989d-11fa5964dd47.html" media-type="application/xhtml+xml"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-49a644b4-4555-4622-adfb-9a2e571d1cb2.html"></itemref></spine>
 </package>
