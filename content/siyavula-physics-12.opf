@@ -170,11 +170,12 @@
     <itemref xmlns="http://www.w3.org/1999/xhtml" idref="43cdc62c-1172-4d3f-968f-11aaeb8ee8de"></itemref>
     <itemref xmlns="http://www.w3.org/1999/xhtml" idref="copy-of-math-breaks-things-test-file-77ee698f-789b-4daa-91d1-42f065875d08"></itemref>
     <itemref xmlns="http://www.w3.org/1999/xhtml" idref="copy-of-new-module-title-c69cb4dc-bbc0-4606-968f-870327b41c01"></itemref>
-    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="02-Momentum-and-impulse.section-01.html"></itemref>
-    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="02-Momentum-and-impulse.section-02.html"></itemref>
-    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="02-Momentum-and-impulse.section-03.html"></itemref>
-    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="01-Skills-for-science.section-01.html"></itemref>
-    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="01-Skills-for-science.section-07.html"></itemref>
-    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="01-Skills-for-science.section-10.html"></itemref>
+
+    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-10"></itemref>
+    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-11"></itemref>
+    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-12"></itemref>
+    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-0"></itemref>
+    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-6"></itemref>
+    <itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-9"></itemref>
   </spine>
 </package>
