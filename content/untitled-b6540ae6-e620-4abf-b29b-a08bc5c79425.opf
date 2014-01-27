@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>Untitled</dc:title>
   </metadata>
-  <manifest><item href="untitled-294d6708-e077-4d8f-bd5d-4f1f82389921-nav.html" id="untitled-294d6708-e077-4d8f-bd5d-4f1f82389921-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-450c297e-9628-40cc-b042-83e0caaebb80.html" id="module1-450c297e-9628-40cc-b042-83e0caaebb80.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <manifest><item href="untitled-294d6708-e077-4d8f-bd5d-4f1f82389921-nav.html" id="untitled-294d6708-e077-4d8f-bd5d-4f1f82389921-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-450c297e-9628-40cc-b042-83e0caaebb80.html" id="module1-450c297e-9628-40cc-b042-83e0caaebb80.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="pasting-from-word-and-open-office-582cb3e8-d0a9-46d2-815f-b03d4cf73dec.html" id="pasting-from-word-and-open-office-582cb3e8-d0a9-46d2-815f-b03d4cf73dec.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-450c297e-9628-40cc-b042-83e0caaebb80.html"></itemref></spine>
 </package>
