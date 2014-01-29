@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>thing</dc:title>
   </metadata>
-  <manifest><item href="thing-94fe5009-7699-4200-8f5f-a2ebf1b13d70-nav.html" id="thing-94fe5009-7699-4200-8f5f-a2ebf1b13d70-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-2f466cdf-65ed-4e35-8fda-1249cd0f7732.html" id="module1-2f466cdf-65ed-4e35-8fda-1249cd0f7732.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <manifest><item href="thing-94fe5009-7699-4200-8f5f-a2ebf1b13d70-nav.html" id="thing-94fe5009-7699-4200-8f5f-a2ebf1b13d70-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-2f466cdf-65ed-4e35-8fda-1249cd0f7732.html" id="module1-2f466cdf-65ed-4e35-8fda-1249cd0f7732.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="new-nothing-else-open-efd280b4-17cc-4548-9057-d71a14e8c088.html" id="new-nothing-else-open-efd280b4-17cc-4548-9057-d71a14e8c088.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-2f466cdf-65ed-4e35-8fda-1249cd0f7732.html"></itemref></spine>
 </package>
