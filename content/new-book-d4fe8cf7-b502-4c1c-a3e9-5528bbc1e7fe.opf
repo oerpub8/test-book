@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>New book</dc:title>
+    <meta property="schema:isBasedOnUrl">http://github.com/oerpub/empty-book/content/empty-book.opf</meta>
+      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-2</date>
+</metadata>
+  <manifest><item href="new-book-3c8f81d4-9694-4852-9f4a-bef1cc7e8b37-nav.html" id="new-book-3c8f81d4-9694-4852-9f4a-bef1cc7e8b37-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-cb21a0be-d62a-430b-a0c5-138de9efdff7.html" id="module1-cb21a0be-d62a-430b-a0c5-138de9efdff7.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-cb21a0be-d62a-430b-a0c5-138de9efdff7.html"></itemref></spine>
+</package>
