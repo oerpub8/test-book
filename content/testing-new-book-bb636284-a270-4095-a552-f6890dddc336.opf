@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="uid"/>
-    <dc:title>testing new book</dc:title>
+    <dc:title></dc:title>
     <meta property="schema:isBasedOnUrl">http://github.com/oerpub/empty-book/content/empty-book.opf</meta>
       <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-16</date>
+    <dc:description>Why did we start on the summary?</dc:description>
+    <dc:language xsi:type="dcterms:RFC4646" xmlns:xsi="http://www.idpf.org/2007/opf">en</dc:language>
+    <dc:rights>Creative Commons Attribution - CC-BY</dc:rights>
+    <meta property="lrmi:useRightsUrl">http://creativecommons.org/licenses/by/3.0/</meta>
+    <meta properties="dcterms:modified">2014-2-16</meta>
+    <dc:subject xsi:type="http://github.com/Connexions/rhaptos.cnxmlutils/rhaptos/cnxmlutils/schema" xmlns:xsi="http://www.idpf.org/2007/opf">Math and Statistics</dc:subject>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml">keyword 1</dc:subject>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml"> keyword 2</dc:subject>
+    <meta property="dcterms:rightsHolder">Shuttleworth Foundation</meta>
+    <dc:creator id="author-1" opf:file-as="Fletcher, Kathi" xmlns:opf="http://www.idpf.org/2007/opf">Kathi Fletcher</dc:creator>
+    <meta xmlns="http://www.w3.org/1999/xhtml" refines="#author-1" property="role" scheme="marc:relators">aut</meta>
+    <dc:creator id="publisher-1" opf:file-as="OERPUB" xmlns:opf="http://www.idpf.org/2007/opf">OERPUB</dc:creator>
+    <meta xmlns="http://www.w3.org/1999/xhtml" refines="#publisher-1" property="role" scheme="marc:relators">pbl</meta>
 </metadata>
   <manifest><item href="testing-new-book-c712844e-4b96-49f8-87bd-5e8f69252332-nav.html" id="testing-new-book-c712844e-4b96-49f8-87bd-5e8f69252332-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-b189a228-bc8f-4ba8-9c15-d7c456f70787.html" id="module1-b189a228-bc8f-4ba8-9c15-d7c456f70787.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="new-book-and-metadata-95cf9fd1-6c4b-4941-a60c-2613db1ecefb-nav.html" id="new-book-and-metadata-95cf9fd1-6c4b-4941-a60c-2613db1ecefb-nav.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="module1-c9fc17c3-ff37-4189-96fe-6a04454454b2.html" id="module1-c9fc17c3-ff37-4189-96fe-6a04454454b2.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-b189a228-bc8f-4ba8-9c15-d7c456f70787.html"></itemref></spine>
