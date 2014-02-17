@@ -3,7 +3,7 @@
     <dc:identifier id="uid"/>
     <dc:title>New book and metadata</dc:title>
     <meta property="schema:isBasedOnUrl">http://github.com/oerpub/empty-book/content/empty-book.opf</meta>
-      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-16</date>
+      <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2014-2-16</date>
 </metadata>
   <manifest><item href="new-book-and-metadata-95cf9fd1-6c4b-4941-a60c-2613db1ecefb-nav.html" id="new-book-and-metadata-95cf9fd1-6c4b-4941-a60c-2613db1ecefb-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-c9fc17c3-ff37-4189-96fe-6a04454454b2.html" id="module1-c9fc17c3-ff37-4189-96fe-6a04454454b2.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-c9fc17c3-ff37-4189-96fe-6a04454454b2.html"></itemref></spine>
