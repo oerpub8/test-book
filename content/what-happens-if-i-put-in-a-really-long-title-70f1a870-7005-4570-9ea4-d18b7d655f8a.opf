@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">what-happens-if-i-put-in-a-really-long-title-f77a2da0-fdda-4661-addf-579044ab7364</dc:identifier>
+    <dc:title>What happens if I put in a really long title?</dc:title>
+      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-24</date>
+</metadata>
+  <manifest><item href="what-happens-if-i-put-in-a-really-long-title-4611b91c-661a-4d28-bd8b-d5ae438d7367-nav.html" id="what-happens-if-i-put-in-a-really-long-title-4611b91c-661a-4d28-bd8b-d5ae438d7367-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-d0f7da9a-92d9-4f84-8720-d236b9569d8d.html" id="module1-d0f7da9a-92d9-4f84-8720-d236b9569d8d.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-d0f7da9a-92d9-4f84-8720-d236b9569d8d.html"></itemref></spine>
+</package>
