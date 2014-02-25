@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">book-title-fd167e46-3ae0-43f8-bdd4-d35b9bbbe06b</dc:identifier>
+    <dc:title>book title</dc:title>
+      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-25</date>
+</metadata>
+  <manifest><item href="book-title-8809702c-fd11-4009-81dc-9b4a032a0b6f-nav.html" id="book-title-8809702c-fd11-4009-81dc-9b4a032a0b6f-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-583ac0ad-e61a-42b9-85b0-03b6458d7471.html" id="module1-583ac0ad-e61a-42b9-85b0-03b6458d7471.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-583ac0ad-e61a-42b9-85b0-03b6458d7471.html"></itemref></spine>
+</package>
